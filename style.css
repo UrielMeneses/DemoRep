@@ -1,0 +1,4 @@
+/*This will change the color of the Home link, to yellow, when you hover over it*/
+h1, a:hover {color: yellow; transition: 0.75s;}
+
+.panel-heading {text-align: center;}
